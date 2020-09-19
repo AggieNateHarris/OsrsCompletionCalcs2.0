@@ -1,0 +1,143 @@
+﻿  Source.cpp
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(163,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(165,23): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(201,28): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(202,30): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(203,33): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(204,35): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(239,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(240,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(261,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(262,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(278,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(279,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(318,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(319,30): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(337,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(339,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(341,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(345,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(346,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(347,30): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(375,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(376,30): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(392,28): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(393,30): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(432,28): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(433,30): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(434,31): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(435,31): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(471,28): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(472,30): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(473,34): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(474,34): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(518,28): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(519,30): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(520,33): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(521,29): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(558,28): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(559,30): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(560,33): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(561,29): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(674,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(675,30): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(695,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(696,33): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(713,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(714,33): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(734,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(735,33): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(770,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(771,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(791,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(792,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(809,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(810,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(830,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(831,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(848,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(849,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(869,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(870,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(886,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(887,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(904,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(905,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(926,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(927,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(947,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(948,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(964,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(965,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(981,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(982,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(998,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(999,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1016,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1017,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1037,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1038,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1054,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1055,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1071,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1072,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1088,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1089,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1105,26): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1106,28): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1614,34): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1615,36): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1616,36): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1617,27): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1618,27): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1619,27): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1620,34): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1634,28): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1712,34): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1713,36): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1714,36): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1715,27): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1716,27): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1717,27): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1718,34): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1732,28): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1769,20): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1770,28): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1771,38): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1772,31): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1788,28): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1819,20): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1820,28): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1821,38): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1822,31): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1837,28): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1889,30): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1890,35): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1891,37): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1909,28): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1948,30): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1949,35): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1950,37): warning C4244: '+=': conversion from 'double' to '__int64', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(1968,28): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(2683,13): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(7962,37): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(8392,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(8393,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(8394,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(8411,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(8500,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(8971,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(9041,9): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(10436,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(11025,37): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(12292,37): warning C4804: '<': unsafe use of type 'bool' in operation
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(12370,25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(12371,26): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(12372,27): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(12373,20): warning C4244: '=': conversion from 'double' to 'long', possible loss of data
+C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\OsrsCompletionCalcs2.0\Source.cpp(12866,38): warning C4804: '<': unsafe use of type 'bool' in operation
+  OsrsCompletionCalcs2.0.vcxproj -> C:\Users\Nate\source\repos\OsrsCompletionCalcs2.0\Debug\OsrsCompletionCalcs2.0.exe
